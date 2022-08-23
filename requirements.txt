@@ -1,0 +1,7 @@
+streamlit
+numpy
+collections
+pillow
+glob
+os
+tensorflow
