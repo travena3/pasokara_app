@@ -104,7 +104,7 @@ if "D" in pc:
 ***
 ## 好みの服装を分析します！
 """
-import streamlit as st
+# import streamlit as st
 option  = st.selectbox(
     '今の季節はSS（春夏）か AW（秋冬）か選択してください',
      ('SS', 'AW'))
