@@ -1,6 +1,6 @@
 streamlit
 numpy
 pillow
-glob
+glob2
 os
 tensorflow
